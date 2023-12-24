@@ -1,10 +1,20 @@
 ﻿# microservices-docker
+
+# DOCKER 
+![image](https://github.com/HansLanda14ib/microservices-docker/assets/100965812/8e5b0c00-04ad-40cf-9a86-9146f3bd2327)
+
 EUREKA SERVICE
- ![image](https://github.com/HansLanda14ib/microservices-docker/assets/100965812/5dacf675-d1e0-45c0-ab02-0e7f37a29a0a)
+![image](https://github.com/HansLanda14ib/microservices-docker/assets/100965812/ce5741d4-5229-4c37-b403-eceee460563d)
+
 
 
 API SERVICE-CLIENT
- ![image](https://github.com/HansLanda14ib/microservices-docker/assets/100965812/85c20631-c4c8-4f1a-916a-0a15f2d49258)
+![image](https://github.com/HansLanda14ib/microservices-docker/assets/100965812/7722c933-0ba9-43ac-b8c4-4937ab3bf98f)
+
+
+![image](https://github.com/HansLanda14ib/microservices-docker/assets/100965812/0e387c7c-d29f-4078-885a-f78cefa9fca6)
+
+
 
 
 
@@ -15,7 +25,5 @@ API SERVICE-CAR : Find by IdCar
  ![image](https://github.com/HansLanda14ib/microservices-docker/assets/100965812/52f62997-766a-4b10-b03b-279be5a334e5)
 
 
-DOCKER
-Exemple d’un Dockerfile :
- ![image](https://github.com/HansLanda14ib/microservices-docker/assets/100965812/09645252-107e-4413-be75-667d85a97720)
+
 
